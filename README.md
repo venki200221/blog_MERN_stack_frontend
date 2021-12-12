@@ -1,1 +1,1 @@
-# blog_mern_stack
+# blog_MERN_stack_frontend
